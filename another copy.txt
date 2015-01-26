@@ -1,3 +1,0 @@
-# This file represents a lot of important, but broken, code. 
-
-while (true); do sl done;
